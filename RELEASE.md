@@ -3,7 +3,7 @@
 ## Upload to test PyPI
 
 ```
-export VERSION=0.1.0
+export VERSION=0.1.1
 git checkout -b release-${VERSION}
 
 git commit -am "Release ${VERSION}.rc0" --allow-empty
