@@ -29,7 +29,7 @@ Merge branch when CI passes
 - Update `README.md` and docs as needed
 
 ```
-export VERSION=0.1.0
+export VERSION=0.1.6
 
 
 git commit -am "Release ${VERSION}" --allow-empty
