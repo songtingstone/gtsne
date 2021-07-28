@@ -115,3 +115,6 @@ tsne/bh_sne.cpp
 *.pkl.gz*
 *.h5ad
 examples/data/*.h5ad
+
+.idea
+.idea/*
