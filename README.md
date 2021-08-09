@@ -1,6 +1,6 @@
 # Python-GTSNE
 
-Python library containing GTSNE algorithms.
+Python library containing GTSNE algorithms. [Preprint](https://arxiv.org/abs/2108.01301)
 
 Global t-Distributed Stochastic Neighbor Embedding
 
